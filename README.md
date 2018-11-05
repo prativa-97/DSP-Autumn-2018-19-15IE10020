@@ -1,3 +1,6 @@
-DSP AUTUMN SEMESTER 2018-19
+## DSP AUTUMN SEMESTER 2018-19
   
- contains the energy compation code and other relevant codes done as a part of DSP(EE41013)
+Contains following codes:-
+1. DFT and IDFT using Fast and slow method
+2. Energy compaction properties of Transforms
+3. Audio file's energy compaction properties
